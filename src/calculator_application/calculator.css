@@ -1,7 +1,7 @@
 .calculator-container{
     background-color: rgba(211, 211, 211);
     margin: auto;
-    width: 30%;
+    width: 38%;
     padding: 10px;
     position: relative;
     top: 5rem;
@@ -20,13 +20,14 @@
 .button-container{
     margin-top: 1rem;
     background-color: rgb(255, 255, 255);
+    
     padding: 10px 10px;
     display: flex;
-    padding-left: 9%;
+    padding-top: 5%;
 }
 
 .num-button{
-    padding: 20px 30px;
+    padding: 10px 20px;
     margin-right: 15px;
     margin-bottom: 15px;
     background-color: tomato;
@@ -35,7 +36,7 @@
     border: unset;
 }
 .equate-button{
-    padding: 20px 70px;
+    padding: 15px 80px;
     background-color: tomato;
     color: white;
     border-radius: 5px;
@@ -43,7 +44,7 @@
     border: unset;
 }
 .clear-button{
-    padding: 20px 30px;
+    padding: 10px 30px;
     margin-right: 15px;
     background-color: tomato;
     color: white;

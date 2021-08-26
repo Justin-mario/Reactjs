@@ -8,8 +8,8 @@ import CalcApp from './calculator_application/App'
 
 ReactDOM.render(
   <React.StrictMode>
-  <Calculator/>
-    {/* <CalcApp /> */}
+  {/* <Calculator/> */}
+    <CalcApp />
   </React.StrictMode>,
   document.getElementById('root')
 );
