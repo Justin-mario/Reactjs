@@ -1,0 +1,52 @@
+.aboutpage {
+    background: linear-gradient(
+      158.86deg,
+      #1c2a34 10.36%,
+      #111a20 49.58%,
+      #111a20 49.58%
+    );
+    width: 100%;
+    height: auto;
+  }
+  .about{
+    font-family: Jost;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 142%;
+    color: #ECF8FF;
+    padding-left: 27%;
+    margin-top:5%
+  }
+  .AboutfirstDiv{
+    font-family: Jost;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 27px;
+    color: #ECF8FF;
+    padding-left: 27%;
+  }
+
+  .personal{
+    font-family: Jost;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 38px;
+    color: #ECF8FF;
+    padding-left: 27%;
+    margin-top: 4%;
+  }
+
+  .AboutLastDiv{
+    font-family: Jost;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 27px;
+    color: #ECF8FF;
+    padding-left: 27%;
+    padding-bottom: 50%;
+  
+  }

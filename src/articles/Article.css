@@ -1,0 +1,71 @@
+.articlepage {
+    background: linear-gradient(
+      158.86deg,
+      #1c2a34 10.36%,
+      #111a20 49.58%,
+      #111a20 49.58%
+    );
+    width: 100%;
+    height: auto;
+  }
+
+  .article{
+    font-family: Jost;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 142%;
+    color: #ECF8FF;
+    padding-left: 27%;
+    margin-top: 5%;
+  }
+  .pWithDate{
+    font-family: Jost;
+    font-style: normal;
+    /* font-weight: normal; */
+    font-size: 10px;
+    line-height: 21px;
+    color: #7AB6D9;
+    padding-left: 27%;
+    margin-top: 3%;
+  }
+
+  .AfirstDiv{
+    font-family: Jost;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 28px;
+    color: #ECF8FF;
+    padding-left: 27%;
+  }
+
+  .BsecondDiv{
+    font-family: Jost;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 27px;
+    color: #ECF8FF;
+    padding-left: 27%;
+  }
+  .readMore{
+    font-family: Jost;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 21px;
+    color: #7AB6D9;
+    padding-left: 27%;
+    
+  }
+
+  .lastReadMore{
+    font-family: Jost;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 21px;
+    color: #7AB6D9;
+    padding-left: 27%;
+    padding-bottom: 22%;
+  }
